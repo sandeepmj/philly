@@ -1,6 +1,4 @@
-# A Basic Excel Primer
-
-The Interface
+# A Basic Excel Primer - Tour of the Interface
 
 ## Workbooks and worksheets
 
