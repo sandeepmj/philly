@@ -14,7 +14,7 @@
 
 ### The ribbon (or menu tabs)
 
-Home menu
+The Home menu
 
 ![][3]
 
