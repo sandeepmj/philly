@@ -2,7 +2,7 @@
 
 ## Workbooks and worksheets
 
-A Microsoft Excel Workbook is a file that holds and organizes worksheets (or what most people commonly refer to as spreadsheets). A workbook can hold multiple worksheets of related data.
+A Microsoft Excel Workbook is a file that holds and organizes worksheets (or what most people commonly refer to as spreadsheets). A workbook can hold multiple worksheets of related data. You can rename a worksheet by right-clicking on it ([instructions](https://support.office.com/en-us/article/Rename-a-worksheet-3F1F7148-EE83-404D-8EF0-9FF99FBAD1F9?ui=en-US&rs=en-US&ad=US&fromAR=1)).
 
 ![][1]
 
