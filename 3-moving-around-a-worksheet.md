@@ -15,3 +15,27 @@ When you first open a worksheet, you might notice that the columns are collapsed
 ![][2]
 
 [2]: images/3-moving-around-a-worksheet/expand-collapsed-columns.png
+
+## Freeze headers
+
+Once you scroll down the column, you can no longer see the headers. It becomes harder to absorb what the information is.
+
+![][3]
+
+[3]: images/3-moving-around-a-worksheet/freeze-headers.png
+
+## Select entire column
+
+Step. 1 To select an entire column, click the box above the header in that column. In the example below, the entire B column is selected.
+
+![][4]
+
+[4]: images/3-moving-around-a-worksheet/select-entire-column.png
+
+## Select entire row
+
+Step. 1 Same as above, but click the row number in the extreme left. In the example below, the entire row 90 is selected.
+
+![][5]
+
+[5]: images/3-moving-around-a-worksheet/select-entire-row.png
