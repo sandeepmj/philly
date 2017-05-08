@@ -47,3 +47,27 @@ If it appears in values, just click and move.
 ![][5]
 
 [5]: images/7-pivot-tables/select-cities-and-counties-to-appear-in-rows.png
+
+## Grouping
+
+In this example, I have created a PivotTable that has all the incident dates. The problem is that having it show totals by random dates is not too illuminating.
+
+Here it would be better to see totals by years.
+
+![][6]
+
+[6]: images/7-pivot-tables/grouping.png
+
+## Step. 1 Right-Click on a cell that includes a date
+
+![][7]
+
+[7]: images/7-pivot-tables/step-1-right-click-on-a-cell-that-includes-a-date.png
+
+## Grouped by years
+
+The resulting PivotTable is more useful.
+
+![][8]
+
+[8]: images/7-pivot-tables/grouped-by-years.png
